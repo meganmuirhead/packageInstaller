@@ -13,5 +13,8 @@ function sortDependencies(input) {
         return b.dependency === false || a.dependency === b.name;
     });
     console.log('sortedOpjects', sortedObjects);
-
+    return sortedObjects
+        .map(function (el) {
+            return el.name;
+        });
 }
