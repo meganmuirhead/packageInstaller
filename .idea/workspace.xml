@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a95ce884-f8e5-45ba-b6cd-e9a1a4d90b26" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DependencyUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DependencyUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/support/DependencyUtils.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/support/DependencyUtils.spec.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,18 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DependencyUtils.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DependencyUtils.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DependencyUtils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DependencyUtils.spec.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DependencyUtils.spec.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/support/DependencyUtils.spec.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="specRunner.html" pinned="false" current-in-tab="false">
@@ -73,9 +78,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spec/support/DependencyUtils.spec.js" />
         <option value="$PROJECT_DIR$/specRunner.html" />
         <option value="$PROJECT_DIR$/src/DependencyUtils.js" />
+        <option value="$PROJECT_DIR$/spec/support/DependencyUtils.spec.js" />
       </list>
     </option>
   </component>
@@ -159,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537417503278</updated>
-      <workItem from="1537417506091" duration="694000" />
+      <workItem from="1537417506091" duration="1975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="694000" />
+    <option name="totallyTimeSpent" value="1975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="262" y="68" width="1440" height="809" extended-state="0" />
@@ -210,9 +215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/support/DependencyUtils.spec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/specRunner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -222,8 +224,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DependencyUtils.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/DependencyUtils.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -9,4 +9,9 @@ function sortDependencies(input) {
         }
     );
     console.log('mappedOpjects', mappedObjects);
+    let sortedObjects = mappedObjects.sort(function (a, b) {
+        return b.dependency === false || a.dependency === b.name;
+    });
+    console.log('sortedOpjects', sortedObjects);
+
 }
