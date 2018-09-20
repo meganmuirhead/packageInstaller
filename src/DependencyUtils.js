@@ -1,4 +1,3 @@
-
 describe("DependencyUtils", () => {
 
     describe('first dependency added', () => {
@@ -11,7 +10,10 @@ describe("DependencyUtils", () => {
                 'Fraudstream: Leetmeme',
                 'Ice: '
             ];
+            let sortedDeps = sortDependencies(inputToBeTested);
 
+            expect(sortedDeps).toEqual(["Ice", "KittenService", "Cyberportal", "Leetmeme", "CamelCaser", "Fraudstream"]);
+        })
     })
 
 });
